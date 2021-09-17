@@ -122,6 +122,16 @@ Draw a state machine diagram that models your GitHub action configuration; inclu
 
 ### Exercise 8
 
+You are asked to design a software system to support the **Chiosco da Paolo** new fast food take away business concept.  
+You have had the chance to have a chat with Paolo and he told you all about the offering that the **Chiosco da Paolo** will have at the opening.  Ranting about how these italians always want options and exceptions, you try to wrap your head around a class diagram you are drawing to model all the notes you took when Paolo was presenting the food.  Among your notes:
+
+- the place is meant to sell food. Paolo mentioned: pizza, calzone, toast, sandwitch, focacce, ... 
+- Paolo also mentioned that somehow he can do all the above with an assortment of ingredients, which can all be combined at the wimps of the customer.  He mentioned: ham, cheese, muchrooms, gorgonzola, spinach, speck, nutella, jam, ...
+- Paolo indicated that he wants the customer to be able to say that they want double, triple, ... amount of each ingredient
+
+
+
+
 
 
 
