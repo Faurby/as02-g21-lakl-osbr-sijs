@@ -106,8 +106,23 @@ To send signals, you can use __send signal actions__. Send signal actions are de
 
 [1] Seidl, Martina, Marion Scholz, Christian Huemer, and Gerti Kappel. UML@ classroom: An introduction to object-oriented modeling. Springer, 2015.
 
+### Exercise 6
+
+Draw a class diagram that models the following specifications:
+
+- Each project has a name, a start date, and an end date.
+- Each project is associated to a project manager, a name, a telephone, and a team.
+- The project manager manages (by starting and terminating) a project and leads the team associated with the project.
+- The project receives as input the requirements and produces a system. Both requirements and the system have a completion percentage and a description.
+- Each team is composed by developers.
+
+### Exercise 7
+
+Draw a state machine diagram that models your GitHub action configuration; include all triggers that you have defined.
+
+
 ## Submitting the assignment
 
 To submit the assignment you need to create a .pdf document using LaTeX containing the answers to the questions and a link to a public repository containing your fork of the completed code.
 
-Members of the triplets should submit the same PDF file to pass the assignments (Note: This does not cover the name of the pdf, which can differ).  Make sure all group names and ID are clearly marked on the front page.
+Members of the triplets should submit the same PDF file to pass the assignments.  Make sure all group names and ID are clearly marked on the front page.  If in doubt about the name of the file, feel free to use the following standard: <Assignement#>-<Group#>-<members initials>.pdf (e.g., as01-g01-emic-pate-rnei.pdf).
