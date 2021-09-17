@@ -123,6 +123,6 @@ Draw a state machine diagram that models your GitHub action configuration; inclu
 
 ## Submitting the assignment
 
-To submit the assignment you need to create a .pdf document using LaTeX containing the answers to the questions and a link to a public repository containing your fork of the completed code.
+To submit the assignment you need to create a .pdf document using LaTeX containing the answers to the questions and a link to a public repository containing solution attempt.
 
 Members of the triplets should submit the same PDF file to pass the assignments.  Make sure all group names and ID are clearly marked on the front page.  If in doubt about the name of the file, feel free to use the following standard: <Assignement#>-<Group#>-<members initials>.pdf (e.g., as01-g01-emic-pate-rnei.pdf).
