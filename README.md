@@ -50,7 +50,7 @@ Consider the three different constructs in C#:
 
 Explain some of the key differences between the three and give examples of where you would use each of them.
 
-Write your answers in the `ANSWERS.md` file.
+Write your answers in the final .pdf file.
 
 ## Software Engineering
 
@@ -119,6 +119,10 @@ Draw a class diagram that models the following specifications:
 ### Exercise 7
 
 Draw a state machine diagram that models your GitHub action configuration; include all triggers that you have defined.
+
+### Exercise 8
+
+
 
 
 ## Submitting the assignment
