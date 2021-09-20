@@ -66,19 +66,5 @@ namespace StudentLibrary.Tests
 
             Assert.Equal(expected, actual);
         }
-
-        [Fact]
-        public void Id_only_accessed_when_Student_is_instantiated() 
-        {   
-            var startDate = new DateTime(2015, 1, 1);
-            var endDate = new DateTime(2020, 4, 7);
-            var graduateDate = new DateTime(2020, 4, 7);
-
-            var student = new Student(4001, "Hans", "Hansen", startDate, endDate, graduateDate);
-
-            // Spørg om assert her
-            var expected = student.Id;
-            var actual = 0;
-        }
     }
 }
