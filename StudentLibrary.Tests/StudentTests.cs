@@ -15,7 +15,7 @@ namespace StudentLibrary.Tests
 
             var student = new Student(4001, "Hans", "Hansen", startDate, endDate, graduateDate);
 
-            var expected = "Id: 4001, Hans Hansen, Status: Active, Start date: 01/01/2020 00:00:00, End date: 12/01/2025 00:00:00, Graduation date: 04/07/2023 00:00:00";
+            var expected = $"Id: 4001, Hans Hansen, Status: Active, Start date: {startDate}, End date: {endDate}, Graduation date: {graduateDate}";
             var output = student.ToString();
 
             Assert.Equal(expected, output);
