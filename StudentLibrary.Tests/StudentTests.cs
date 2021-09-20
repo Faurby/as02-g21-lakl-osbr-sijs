@@ -21,7 +21,6 @@ namespace StudentLibrary.Tests
             Assert.Equal(expected, output);
         }
 
-
         [Fact]
         public void Checks_three_dates_compared_new()
         {
