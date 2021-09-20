@@ -75,7 +75,9 @@ namespace ImmutableStudentLibraryTests
 
             var student = new ImmutableStudent(4001, "Hans", "Hansen", startDate, endDate, graduateDate);
 
+
             var expected = $"Id: 4001, Hans Hansen \r\n Status: Active \r\n Start date: {startDate} \r\n End date: {endDate} \r\n Graduation date: {graduateDate}";
+
             var output = student.ToString();
 
             Assert.Equal(expected, output);
